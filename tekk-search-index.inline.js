@@ -4,7 +4,7 @@ window.tekkIndex = [
     "title": "Утеплитель РОКЛАЙТ - 1200 - 600 - 50 - 6 - В наличии",
     "sku": "1000.0",
     "price": 797.0,
-    "image": "nan",
+    "image": "https://static.tildacdn.com/stor6262-6639-4163-b332-376337346663/50170619.jpg",
     "url": "https://текк.рф/catalog/teploizolyaciya/tproduct/744317275252-uteplitel-roklait?editionuid=796123299932",
     "category": "nan"
   },
@@ -13,7 +13,7 @@ window.tekkIndex = [
     "title": "Утеплитель РОКЛАЙТ - 1200 - 600 - 100 - 6 - В наличии",
     "sku": "1001.0",
     "price": 1593.0,
-    "image": "nan",
+    "image": "https://static.tildacdn.com/stor6262-6639-4163-b332-376337346663/50170619.jpg",
     "url": "https://текк.рф/catalog/teploizolyaciya/tproduct/744317275252-uteplitel-roklait?editionuid=866435560112",
     "category": "nan"
   },
@@ -31,7 +31,7 @@ window.tekkIndex = [
     "title": "Утеплитель ТЕХНОБЛОК - 1200 - 600 - 50 - 6 - В наличии",
     "sku": "1004.0",
     "price": 1352.0,
-    "image": "nan",
+    "image": "https://static.tildacdn.com/stor6466-3062-4231-a366-656663383461/35026733.png",
     "url": "https://текк.рф/catalog/teploizolyaciya/tproduct/769958493952-uteplitel-tehnoblok?editionuid=269421337542",
     "category": "nan"
   },
@@ -40,7 +40,7 @@ window.tekkIndex = [
     "title": "Утеплитель ТЕХНОВЕНТ Стандарт - 1200 - 600 - 50 - 6 - В наличии",
     "sku": "1005.0",
     "price": 1910.0,
-    "image": "nan",
+    "image": "https://static.tildacdn.com/stor6633-3661-4366-b763-326138363161/57026604.jpg",
     "url": "https://текк.рф/catalog/teploizolyaciya/tproduct/522922942112-uteplitel-tehnovent-standart?editionuid=700263764542",
     "category": "nan"
   },
@@ -67,7 +67,7 @@ window.tekkIndex = [
     "title": "Утеплитель KNAUF NORD - Плита - 1250 - 600 - 50 - 12 - Под заказ",
     "sku": "1007.0",
     "price": 2394.0,
-    "image": "nan",
+    "image": "https://static.tildacdn.com/stor3564-3863-4732-b430-356131666137/79305251.jpg",
     "url": "https://текк.рф/catalog/teploizolyaciya/tproduct/536606002812-uteplitel-knauf-nord-plita?editionuid=254870582172",
     "category": "nan"
   },
@@ -76,7 +76,7 @@ window.tekkIndex = [
     "title": "Утеплитель KNAUF NORD - Плита - 1250 - 600 - 100 - 6 - Под заказ",
     "sku": "1008.0",
     "price": 2394.0,
-    "image": "nan",
+    "image": "https://static.tildacdn.com/stor3564-3863-4732-b430-356131666137/79305251.jpg",
     "url": "https://текк.рф/catalog/teploizolyaciya/tproduct/536606002812-uteplitel-knauf-nord-plita?editionuid=729635144572",
     "category": "nan"
   },
@@ -85,7 +85,7 @@ window.tekkIndex = [
     "title": "Утеплитель ТеплоKNAUF кровля/стена - Плита - 1230 - 610 - 50 - 16 - В наличии",
     "sku": "1009.0",
     "price": 2464.0,
-    "image": "nan",
+    "image": "https://static.tildacdn.com/stor6534-3737-4334-b532-623131633037/81492625.jpg",
     "url": "https://текк.рф/catalog/teploizolyaciya/tproduct/655418828752-uteplitel-teploknauf-krovlyastena-plita?editionuid=639492975112",
     "category": "nan"
   },
@@ -94,7 +94,7 @@ window.tekkIndex = [
     "title": "Утеплитель ТеплоKNAUF кровля/стена - Плита - 1230 - 610 - 100 - 8 - В наличии",
     "sku": "1010.0",
     "price": 2464.0,
-    "image": "nan",
+    "image": "https://static.tildacdn.com/stor6534-3737-4334-b532-623131633037/81492625.jpg",
     "url": "https://текк.рф/catalog/teploizolyaciya/tproduct/655418828752-uteplitel-teploknauf-krovlyastena-plita?editionuid=656346316202",
     "category": "nan"
   },
@@ -148,7 +148,7 @@ window.tekkIndex = [
     "title": "Утеплитель URSA M-11 - Рулон - 1200 - 50 - 10000 - 2 - Под заказ",
     "sku": "1016.0",
     "price": 3159.0,
-    "image": "nan",
+    "image": "https://static.tildacdn.com/stor3535-3034-4237-a439-613463383632/32990021.png",
     "url": "https://текк.рф/catalog/teploizolyaciya/tproduct/133725006042-uteplitel-ursa-m-11-rulon?editionuid=828347622552",
     "category": "nan"
   },
@@ -157,7 +157,7 @@ window.tekkIndex = [
     "title": "Утеплитель URSA M-11Ф - Рулон - 1200 - 50 - 12500 - 1 - Под заказ",
     "sku": "1017.0",
     "price": 4208.0,
-    "image": "nan",
+    "image": "https://static.tildacdn.com/stor3535-3034-4237-a439-613463383632/32990021.png",
     "url": "https://текк.рф/catalog/teploizolyaciya/tproduct/750996226112-uteplitel-ursa-m-11f-rulon?editionuid=954071095552",
     "category": "nan"
   },
@@ -166,7 +166,7 @@ window.tekkIndex = [
     "title": "Утеплитель URSA TERRA 35 QN Скатная крыша - Рулон - 4500 - 1200 - 100 - 1 - Под заказ",
     "sku": "1018.0",
     "price": 2045.0,
-    "image": "nan",
+    "image": "https://static.tildacdn.com/stor3564-3865-4538-b437-376463626436/68215654.png",
     "url": "https://текк.рф/catalog/teploizolyaciya/tproduct/150797019072-uteplitel-ursa-terra-35-qn-skatnaya-kris?editionuid=316481304052",
     "category": "nan"
   },
@@ -175,7 +175,7 @@ window.tekkIndex = [
     "title": "Утеплитель URSA TERRA 35 QN Скатная крыша - Рулон - 3900 - 1200 - 150 - 1 - Под заказ",
     "sku": "1019.0",
     "price": 2555.0,
-    "image": "nan",
+    "image": "https://static.tildacdn.com/stor3564-3865-4538-b437-376463626436/68215654.png",
     "url": "https://текк.рф/catalog/teploizolyaciya/tproduct/150797019072-uteplitel-ursa-terra-35-qn-skatnaya-kris?editionuid=936162148812",
     "category": "nan"
   },
@@ -184,7 +184,7 @@ window.tekkIndex = [
     "title": "Утеплитель URSA TERRA 37 PN - Плита - 1250 - 610 - 50 - 20 - Под заказ",
     "sku": "1020.0",
     "price": 2869.0,
-    "image": "nan",
+    "image": "https://static.tildacdn.com/stor3662-3363-4531-b565-383636306163/50187090.jpg",
     "url": "https://текк.рф/catalog/teploizolyaciya/tproduct/615616770672-uteplitel-ursa-terra-37-pn-plita?editionuid=979236552562",
     "category": "nan"
   },
@@ -193,7 +193,7 @@ window.tekkIndex = [
     "title": "Утеплитель URSA TERRA 37 PN - Плита - 1250 - 610 - 100 - 10 - Под заказ",
     "sku": "1021.0",
     "price": 2869.0,
-    "image": "nan",
+    "image": "https://static.tildacdn.com/stor3662-3363-4531-b565-383636306163/50187090.jpg",
     "url": "https://текк.рф/catalog/teploizolyaciya/tproduct/615616770672-uteplitel-ursa-terra-37-pn-plita?editionuid=991725556952",
     "category": "nan"
   },
@@ -202,7 +202,7 @@ window.tekkIndex = [
     "title": "Утеплитель Vetonit (Isover) Профи - Рулон - 610 - 4100 - 50 - Под заказ",
     "sku": "1022.0",
     "price": 1765.0,
-    "image": "nan",
+    "image": "https://static.tildacdn.com/stor3930-3232-4634-b463-646335306637/29729056.png",
     "url": "https://текк.рф/catalog/teploizolyaciya/tproduct/376726098812-uteplitel-vetonit-isover-profi-rulon?editionuid=302070855712",
     "category": "nan"
   },
@@ -211,7 +211,7 @@ window.tekkIndex = [
     "title": "Утеплитель Vetonit (Isover) Теплые Стены Стронг - Плита - 610 - 1000 - 50 - 5 - В наличии",
     "sku": "1023.0",
     "price": 1196.0,
-    "image": "nan",
+    "image": "https://static.tildacdn.com/stor3834-3832-4137-a139-393535316631/83070232.jpg",
     "url": "https://текк.рф/catalog/teploizolyaciya/tproduct/694573057552-uteplitel-vetonit-isover-teplie-steni-st?editionuid=915891479622",
     "category": "nan"
   },
@@ -220,7 +220,7 @@ window.tekkIndex = [
     "title": "Утеплитель Vetonit (Isover) Теплые Стены Стронг - Плита - 610 - 1000 - 100 - 5 - Под заказ",
     "sku": "1024.0",
     "price": 1196.0,
-    "image": "nan",
+    "image": "https://static.tildacdn.com/stor3834-3832-4137-a139-393535316631/83070232.jpg",
     "url": "https://текк.рф/catalog/teploizolyaciya/tproduct/694573057552-uteplitel-vetonit-isover-teplie-steni-st?editionuid=304814309412",
     "category": "nan"
   },
@@ -229,7 +229,7 @@ window.tekkIndex = [
     "title": "Утеплитель Vetonit (Isover) Теплая Крыша Стронг - Рулон - 4100 - 1220 - 50 - 2 - В наличии",
     "sku": "1025.0",
     "price": 1962.0,
-    "image": "nan",
+    "image": "https://static.tildacdn.com/stor6561-3834-4633-b261-643035663032/81244472.jpg",
     "url": "https://текк.рф/catalog/teploizolyaciya/tproduct/295875841222-uteplitel-vetonit-isover-teplaya-krisha?editionuid=100486215462",
     "category": "nan"
   },
@@ -238,7 +238,7 @@ window.tekkIndex = [
     "title": "Утеплитель Vetonit (Isover) Теплая Крыша Стронг - Рулон - 4100 - 1220 - 100 - 1 - В наличии",
     "sku": "1026.0",
     "price": 1962.0,
-    "image": "nan",
+    "image": "https://static.tildacdn.com/stor6561-3834-4633-b261-643035663032/81244472.jpg",
     "url": "https://текк.рф/catalog/teploizolyaciya/tproduct/295875841222-uteplitel-vetonit-isover-teplaya-krisha?editionuid=176940673552",
     "category": "nan"
   },
@@ -247,7 +247,7 @@ window.tekkIndex = [
     "title": "Утеплитель Vetonit (Isover) Теплая Крыша Стронг - Рулон - 4000 - 1220 - 150 - 1 - В наличии",
     "sku": "1027.0",
     "price": 2870.0,
-    "image": "nan",
+    "image": "https://static.tildacdn.com/stor6561-3834-4633-b261-643035663032/81244472.jpg",
     "url": "https://текк.рф/catalog/teploizolyaciya/tproduct/295875841222-uteplitel-vetonit-isover-teplaya-krisha?editionuid=505598657002",
     "category": "nan"
   },
@@ -265,7 +265,7 @@ window.tekkIndex = [
     "title": "Утеплитель Vetonit (Isover) Теплый Дом - Плита - 610 - 1170 - 50 - 14 - Под заказ",
     "sku": "1029.0",
     "price": 1249.0,
-    "image": "nan",
+    "image": "https://static.tildacdn.com/stor3731-3262-4236-b164-323838396132/46833721.jpg",
     "url": "https://текк.рф/catalog/teploizolyaciya/tproduct/954173738872-uteplitel-vetonit-isover-teplii-dom-plit?editionuid=243871969522",
     "category": "nan"
   },
@@ -274,7 +274,7 @@ window.tekkIndex = [
     "title": "Утеплитель Vetonit (Isover) Теплый Дом - Плита - 610 - 1170 - 100 - 7 - Под заказ",
     "sku": "1030.0",
     "price": 1249.0,
-    "image": "nan",
+    "image": "https://static.tildacdn.com/stor3731-3262-4236-b164-323838396132/46833721.jpg",
     "url": "https://текк.рф/catalog/teploizolyaciya/tproduct/954173738872-uteplitel-vetonit-isover-teplii-dom-plit?editionuid=301891160922",
     "category": "nan"
   },
@@ -301,7 +301,7 @@ window.tekkIndex = [
     "title": "Утеплитель ИЗОВЕР Скатная Кровля Комфорт - Рулон - 1200 - 4000 - 150 - 4.88 - 1 рулон - Под заказ",
     "sku": "1033.0",
     "price": 3649.0,
-    "image": "nan",
+    "image": "https://static.tildacdn.com/stor3438-3032-4565-b463-376632613430/26305203.webp",
     "url": "https://текк.рф/catalog/teploizolyaciya/tproduct/401271075942-uteplitel-izover-skatnaya-krovlya-komfor?editionuid=609563428262",
     "category": "nan"
   },
@@ -310,7 +310,7 @@ window.tekkIndex = [
     "title": "ТЕХНОНИКОЛЬ XPS-ТЕХНОПЛЕКС - 1180 - 580 - 20 - 20 - В наличии",
     "sku": "1034.0",
     "price": 3066.0,
-    "image": "nan",
+    "image": "https://static.tildacdn.com/stor3235-3861-4666-a262-346438306338/30325436.jpg",
     "url": "https://текк.рф/catalog/teploizolyaciya/tproduct/767101757752-tehnonikol-xps-tehnopleks?editionuid=311264336732",
     "category": "nan"
   },
@@ -319,7 +319,7 @@ window.tekkIndex = [
     "title": "ТЕХНОНИКОЛЬ XPS-ТЕХНОПЛЕКС - 1180 - 580 - 30 - 13 - В наличии",
     "sku": "1035.0",
     "price": 2358.0,
-    "image": "nan",
+    "image": "https://static.tildacdn.com/stor3235-3861-4666-a262-346438306338/30325436.jpg",
     "url": "https://текк.рф/catalog/teploizolyaciya/tproduct/767101757752-tehnonikol-xps-tehnopleks?editionuid=473065234672",
     "category": "nan"
   },
@@ -328,7 +328,7 @@ window.tekkIndex = [
     "title": "ТЕХНОНИКОЛЬ XPS-ТЕХНОПЛЕКС - 1180 - 580 - 40 - 10 - В наличии",
     "sku": "1036.0",
     "price": 2513.0,
-    "image": "nan",
+    "image": "https://static.tildacdn.com/stor3235-3861-4666-a262-346438306338/30325436.jpg",
     "url": "https://текк.рф/catalog/teploizolyaciya/tproduct/767101757752-tehnonikol-xps-tehnopleks?editionuid=372911514112",
     "category": "nan"
   },
@@ -337,7 +337,7 @@ window.tekkIndex = [
     "title": "ТЕХНОНИКОЛЬ XPS-ТЕХНОПЛЕКС - 1180 - 580 - 50 - 8 - Под заказ",
     "sku": "1037.0",
     "price": 2339.0,
-    "image": "nan",
+    "image": "https://static.tildacdn.com/stor3235-3861-4666-a262-346438306338/30325436.jpg",
     "url": "https://текк.рф/catalog/teploizolyaciya/tproduct/767101757752-tehnonikol-xps-tehnopleks?editionuid=167104911692",
     "category": "nan"
   },
@@ -346,7 +346,7 @@ window.tekkIndex = [
     "title": "ТЕХНОНИКОЛЬ XPS-ТЕХНОПЛЕКС - 1180 - 580 - 100 - 4 - В наличии",
     "sku": "1038.0",
     "price": 2450.0,
-    "image": "nan",
+    "image": "https://static.tildacdn.com/stor3235-3861-4666-a262-346438306338/30325436.jpg",
     "url": "https://текк.рф/catalog/teploizolyaciya/tproduct/767101757752-tehnonikol-xps-tehnopleks?editionuid=887393961682",
     "category": "nan"
   },
@@ -355,7 +355,7 @@ window.tekkIndex = [
     "title": "Утеплитель экструзионный пенополистирол ТЕПЛЕКС - 1185 - 585 - 30 - 13 - В наличии",
     "sku": "1039.0",
     "price": 2360.0,
-    "image": "nan",
+    "image": "https://static.tildacdn.com/stor3330-6233-4664-a266-633731353965/41389124.jpg",
     "url": "https://текк.рф/catalog/teploizolyaciya/tproduct/548428505782-uteplitel-ekstruzionnii-penopolistirol-t?editionuid=551922371592",
     "category": "nan"
   },
@@ -364,7 +364,7 @@ window.tekkIndex = [
     "title": "Утеплитель экструзионный пенополистирол ТЕПЛЕКС - 1185 - 585 - 50 - 8 - В наличии",
     "sku": "1040.0",
     "price": 2422.0,
-    "image": "nan",
+    "image": "https://static.tildacdn.com/stor3330-6233-4664-a266-633731353965/41389124.jpg",
     "url": "https://текк.рф/catalog/teploizolyaciya/tproduct/548428505782-uteplitel-ekstruzionnii-penopolistirol-t?editionuid=885810424972",
     "category": "nan"
   },
@@ -373,7 +373,7 @@ window.tekkIndex = [
     "title": "Экструзионный пенополистирол ПЕНОПЛЭКС КОМФОРТ® - 1185 - 585 - 20 - 20 - В наличии",
     "sku": "1041.0",
     "price": 3212.0,
-    "image": "nan",
+    "image": "https://static.tildacdn.com/stor3962-6664-4362-a462-613339306436/14623389.jpg",
     "url": "https://текк.рф/catalog/teploizolyaciya/tproduct/227165954522-ekstruzionnii-penopolistirol-penopleks-k?editionuid=251661208782",
     "category": "nan"
   },
@@ -382,7 +382,7 @@ window.tekkIndex = [
     "title": "Экструзионный пенополистирол ПЕНОПЛЭКС КОМФОРТ® - 1185 - 585 - 30 - 13 - В наличии",
     "sku": "1042.0",
     "price": 3058.0,
-    "image": "nan",
+    "image": "https://static.tildacdn.com/stor3962-6664-4362-a462-613339306436/14623389.jpg",
     "url": "https://текк.рф/catalog/teploizolyaciya/tproduct/227165954522-ekstruzionnii-penopolistirol-penopleks-k?editionuid=664450460392",
     "category": "nan"
   },
@@ -391,7 +391,7 @@ window.tekkIndex = [
     "title": "Экструзионный пенополистирол ПЕНОПЛЭКС КОМФОРТ® - 1185 - 585 - 40 - 10 - В наличии",
     "sku": "1043.0",
     "price": 3100.0,
-    "image": "nan",
+    "image": "https://static.tildacdn.com/stor3962-6664-4362-a462-613339306436/14623389.jpg",
     "url": "https://текк.рф/catalog/teploizolyaciya/tproduct/227165954522-ekstruzionnii-penopolistirol-penopleks-k?editionuid=389497518602",
     "category": "nan"
   },
@@ -400,7 +400,7 @@ window.tekkIndex = [
     "title": "Экструзионный пенополистирол ПЕНОПЛЭКС КОМФОРТ® - 1185 - 585 - 50 - 7 - В наличии",
     "sku": "1044.0",
     "price": 2660.0,
-    "image": "nan",
+    "image": "https://static.tildacdn.com/stor3962-6664-4362-a462-613339306436/14623389.jpg",
     "url": "https://текк.рф/catalog/teploizolyaciya/tproduct/227165954522-ekstruzionnii-penopolistirol-penopleks-k?editionuid=120945442802",
     "category": "nan"
   },
@@ -409,7 +409,7 @@ window.tekkIndex = [
     "title": "Экструзионный пенополистирол ПЕНОПЛЭКС КОМФОРТ® - 1185 - 585 - 100 - 4 - В наличии",
     "sku": "1045.0",
     "price": 3135.0,
-    "image": "nan",
+    "image": "https://static.tildacdn.com/stor3962-6664-4362-a462-613339306436/14623389.jpg",
     "url": "https://текк.рф/catalog/teploizolyaciya/tproduct/227165954522-ekstruzionnii-penopolistirol-penopleks-k?editionuid=328720489422",
     "category": "nan"
   },
@@ -418,7 +418,7 @@ window.tekkIndex = [
     "title": "Экструзионный пенополистирол ПЕНОПЛЭКС ФУНДАМЕНТ® - 1185 - 585 - 50 - 7 - В наличии",
     "sku": "1046.0",
     "price": 2836.0,
-    "image": "nan",
+    "image": "https://static.tildacdn.com/stor3635-3734-4364-b232-653661663162/16859460.jpg",
     "url": "https://текк.рф/catalog/teploizolyaciya/tproduct/102664632062-ekstruzionnii-penopolistirol-penopleks-f?editionuid=748228295992",
     "category": "nan"
   },
@@ -427,7 +427,7 @@ window.tekkIndex = [
     "title": "Экструзионный пенополистирол ПЕНОПЛЭКС ФУНДАМЕНТ® - 1185 - 585 - 100 - 4 - Под заказ",
     "sku": "1047.0",
     "price": 3303.0,
-    "image": "nan",
+    "image": "https://static.tildacdn.com/stor3635-3734-4364-b232-653661663162/16859460.jpg",
     "url": "https://текк.рф/catalog/teploizolyaciya/tproduct/102664632062-ekstruzionnii-penopolistirol-penopleks-f?editionuid=889312431042",
     "category": "nan"
   },
@@ -436,7 +436,7 @@ window.tekkIndex = [
     "title": "Экструзионный пенополистирол ПЕНОПЛЭКС СТЕНА® - 1185 - 585 - 50 - 7 - В наличии",
     "sku": "1048.0",
     "price": 2660.0,
-    "image": "nan",
+    "image": "https://static.tildacdn.com/stor6634-3634-4538-a164-636136656435/14821485.png",
     "url": "https://текк.рф/catalog/teploizolyaciya/tproduct/742789413452-ekstruzionnii-penopolistirol-penopleks-s?editionuid=676774615882",
     "category": "nan"
   },
@@ -445,7 +445,7 @@ window.tekkIndex = [
     "title": "Экструзионный пенополистирол ПЕНОПЛЭКС СТЕНА® - 1185 - 585 - 100 - 4 - Под заказ",
     "sku": "1049.0",
     "price": 3135.0,
-    "image": "nan",
+    "image": "https://static.tildacdn.com/stor6634-3634-4538-a164-636136656435/14821485.png",
     "url": "https://текк.рф/catalog/teploizolyaciya/tproduct/742789413452-ekstruzionnii-penopolistirol-penopleks-s?editionuid=653019107102",
     "category": "nan"
   },
@@ -490,7 +490,7 @@ window.tekkIndex = [
     "title": "Межвенцовый утеплитель ЭКОДЖУТ - 10 - 20 - В наличии",
     "sku": "1066.0",
     "price": 227.0,
-    "image": "nan",
+    "image": "https://static.tildacdn.com/stor3332-6633-4334-b764-363637336639/25997822.jpg",
     "url": "https://текк.рф/catalog/teploizolyaciya/tproduct/357540362312-mezhventsovii-uteplitel-ekodzhut?editionuid=220806884342",
     "category": "nan"
   },
@@ -499,7 +499,7 @@ window.tekkIndex = [
     "title": "Межвенцовый утеплитель ЭКОДЖУТ - 12 - 20 - Под заказ",
     "sku": "1067.0",
     "price": 271.0,
-    "image": "nan",
+    "image": "https://static.tildacdn.com/stor3332-6633-4334-b764-363637336639/25997822.jpg",
     "url": "https://текк.рф/catalog/teploizolyaciya/tproduct/357540362312-mezhventsovii-uteplitel-ekodzhut?editionuid=962468203832",
     "category": "nan"
   },
@@ -508,7 +508,7 @@ window.tekkIndex = [
     "title": "Межвенцовый утеплитель ЭКОДЖУТ - 15 - 20 - В наличии",
     "sku": "1068.0",
     "price": 340.0,
-    "image": "nan",
+    "image": "https://static.tildacdn.com/stor3332-6633-4334-b764-363637336639/25997822.jpg",
     "url": "https://текк.рф/catalog/teploizolyaciya/tproduct/357540362312-mezhventsovii-uteplitel-ekodzhut?editionuid=621592120332",
     "category": "nan"
   },
@@ -517,7 +517,7 @@ window.tekkIndex = [
     "title": "Межвенцовый утеплитель ЭКОДЖУТ - 20 - 20 - Под заказ",
     "sku": "1069.0",
     "price": 453.0,
-    "image": "nan",
+    "image": "https://static.tildacdn.com/stor3332-6633-4334-b764-363637336639/25997822.jpg",
     "url": "https://текк.рф/catalog/teploizolyaciya/tproduct/357540362312-mezhventsovii-uteplitel-ekodzhut?editionuid=665167803452",
     "category": "nan"
   },
@@ -526,7 +526,7 @@ window.tekkIndex = [
     "title": "Межвенцовый утеплитель ЛОТЕКС - STANDART - 8 - 2 - 15 - В наличии",
     "sku": "1070.0",
     "price": 147.0,
-    "image": "nan",
+    "image": "https://static.tildacdn.com/stor6132-3362-4139-a636-663438393733/36253774.jpg",
     "url": "https://текк.рф/catalog/teploizolyaciya/tproduct/437732044712-mezhventsovii-uteplitel-loteks?editionuid=478278879532",
     "category": "nan"
   },
@@ -535,7 +535,7 @@ window.tekkIndex = [
     "title": "Межвенцовый утеплитель ЛОТЕКС - STANDART - 10 - 2 - 15 - В наличии",
     "sku": "1071.0",
     "price": 185.0,
-    "image": "nan",
+    "image": "https://static.tildacdn.com/stor6132-3362-4139-a636-663438393733/36253774.jpg",
     "url": "https://текк.рф/catalog/teploizolyaciya/tproduct/437732044712-mezhventsovii-uteplitel-loteks?editionuid=452588765412",
     "category": "nan"
   },
@@ -544,7 +544,7 @@ window.tekkIndex = [
     "title": "Межвенцовый утеплитель ЛОТЕКС - STANDART - 12 - 2 - 15 - В наличии",
     "sku": "1072.0",
     "price": 221.0,
-    "image": "nan",
+    "image": "https://static.tildacdn.com/stor6132-3362-4139-a636-663438393733/36253774.jpg",
     "url": "https://текк.рф/catalog/teploizolyaciya/tproduct/437732044712-mezhventsovii-uteplitel-loteks?editionuid=246539674152",
     "category": "nan"
   },
@@ -553,7 +553,7 @@ window.tekkIndex = [
     "title": "Межвенцовый утеплитель ЛОТЕКС - STANDART - 15 - 2 - 15 - Под заказ",
     "sku": "1073.0",
     "price": 275.0,
-    "image": "nan",
+    "image": "https://static.tildacdn.com/stor6132-3362-4139-a636-663438393733/36253774.jpg",
     "url": "https://текк.рф/catalog/teploizolyaciya/tproduct/437732044712-mezhventsovii-uteplitel-loteks?editionuid=897218549192",
     "category": "nan"
   },
@@ -562,7 +562,7 @@ window.tekkIndex = [
     "title": "Межвенцовый утеплитель ЛОТЕКС - STANDART - 20 - 2 - 15 - Под заказ",
     "sku": "1074.0",
     "price": 365.0,
-    "image": "nan",
+    "image": "https://static.tildacdn.com/stor6132-3362-4139-a636-663438393733/36253774.jpg",
     "url": "https://текк.рф/catalog/teploizolyaciya/tproduct/437732044712-mezhventsovii-uteplitel-loteks?editionuid=459649193852",
     "category": "nan"
   },
@@ -571,7 +571,7 @@ window.tekkIndex = [
     "title": "Межвенцовый утеплитель ЛОТЕКС - STANDART PLUS - 8 - 3 - 15 - В наличии",
     "sku": "1075.0",
     "price": 147.0,
-    "image": "nan",
+    "image": "https://static.tildacdn.com/stor6132-3362-4139-a636-663438393733/36253774.jpg",
     "url": "https://текк.рф/catalog/teploizolyaciya/tproduct/437732044712-mezhventsovii-uteplitel-loteks?editionuid=814536320042",
     "category": "nan"
   },
@@ -580,7 +580,7 @@ window.tekkIndex = [
     "title": "Межвенцовый утеплитель ЛОТЕКС - STANDART PLUS - 10 - 3 - 15 - В наличии",
     "sku": "1076.0",
     "price": 183.0,
-    "image": "nan",
+    "image": "https://static.tildacdn.com/stor6132-3362-4139-a636-663438393733/36253774.jpg",
     "url": "https://текк.рф/catalog/teploizolyaciya/tproduct/437732044712-mezhventsovii-uteplitel-loteks?editionuid=957299939442",
     "category": "nan"
   },
@@ -589,7 +589,7 @@ window.tekkIndex = [
     "title": "Межвенцовый утеплитель ЛОТЕКС - STANDART PLUS - 12 - 3 - 15 - В наличии",
     "sku": "1077.0",
     "price": 219.0,
-    "image": "nan",
+    "image": "https://static.tildacdn.com/stor6132-3362-4139-a636-663438393733/36253774.jpg",
     "url": "https://текк.рф/catalog/teploizolyaciya/tproduct/437732044712-mezhventsovii-uteplitel-loteks?editionuid=682594570452",
     "category": "nan"
   },
@@ -598,7 +598,7 @@ window.tekkIndex = [
     "title": "Межвенцовый утеплитель ЛОТЕКС - STANDART PLUS - 15 - 3 - 15 - В наличии",
     "sku": "1078.0",
     "price": 273.0,
-    "image": "nan",
+    "image": "https://static.tildacdn.com/stor6132-3362-4139-a636-663438393733/36253774.jpg",
     "url": "https://текк.рф/catalog/teploizolyaciya/tproduct/437732044712-mezhventsovii-uteplitel-loteks?editionuid=935719350422",
     "category": "nan"
   },
@@ -9643,7 +9643,7 @@ window.tekkIndex = [
     "title": "Панель из дерева (штиль) - Упаковкой по 5 шт. - Кедр - B - 14х146(138) - 3000 - Под заказ",
     "sku": "1206.0",
     "price": 2446.0,
-    "image": "nan",
+    "image": "https://static.tildacdn.com/stor3139-3065-4432-a537-303365653962/19715525.png",
     "url": "https://текк.рф/catalog/stolyarnye-izdeliya/tproduct/896178685342-panel-iz-dereva-shtil?editionuid=553847578172",
     "category": "nan"
   },
@@ -9652,7 +9652,7 @@ window.tekkIndex = [
     "title": "Панель из дерева (штиль) - Упаковкой по 5 шт. - Кедр - C - 14х146(138) - 3000 - Под заказ",
     "sku": "1207.0",
     "price": 1909.0,
-    "image": "nan",
+    "image": "https://static.tildacdn.com/stor3139-3065-4432-a537-303365653962/19715525.png",
     "url": "https://текк.рф/catalog/stolyarnye-izdeliya/tproduct/896178685342-panel-iz-dereva-shtil?editionuid=296050049842",
     "category": "nan"
   },
@@ -9661,7 +9661,7 @@ window.tekkIndex = [
     "title": "Панель из дерева (штиль) - Упаковкой по 5 шт. - Хвоя - C - 14х146(138) - 3000 - Под заказ",
     "sku": "1208.0",
     "price": 1689.0,
-    "image": "nan",
+    "image": "https://static.tildacdn.com/stor3139-3065-4432-a537-303365653962/19715525.png",
     "url": "https://текк.рф/catalog/stolyarnye-izdeliya/tproduct/896178685342-panel-iz-dereva-shtil?editionuid=915838039862",
     "category": "nan"
   },
@@ -9670,7 +9670,7 @@ window.tekkIndex = [
     "title": "Имитация бруса - Упаковкой по 4 шт. - Кедр - B - 20х146(138) - 3000 - В наличии",
     "sku": "1209.0",
     "price": 2626.0,
-    "image": "nan",
+    "image": "https://static.tildacdn.com/stor6436-3464-4332-b862-353130636362/33087760.png",
     "url": "https://текк.рф/catalog/stolyarnye-izdeliya/tproduct/444421691102-imitatsiya-brusa?editionuid=403554842602",
     "category": "nan"
   },
@@ -9679,7 +9679,7 @@ window.tekkIndex = [
     "title": "Имитация бруса - Упаковкой по 4 шт. - Хвоя - B - 20х146(138) - 3000 - В наличии",
     "sku": "1210.0",
     "price": 2560.0,
-    "image": "nan",
+    "image": "https://static.tildacdn.com/stor6436-3464-4332-b862-353130636362/33087760.png",
     "url": "https://текк.рф/catalog/stolyarnye-izdeliya/tproduct/444421691102-imitatsiya-brusa?editionuid=537269835182",
     "category": "nan"
   },
@@ -9688,7 +9688,7 @@ window.tekkIndex = [
     "title": "Имитация бруса - Упаковкой по 4 шт. - Хвоя - C - 20х146(138) - 3000 - Под заказ",
     "sku": "1211.0",
     "price": 1857.0,
-    "image": "nan",
+    "image": "https://static.tildacdn.com/stor6436-3464-4332-b862-353130636362/33087760.png",
     "url": "https://текк.рф/catalog/stolyarnye-izdeliya/tproduct/444421691102-imitatsiya-brusa?editionuid=902937538592",
     "category": "nan"
   },
@@ -9697,7 +9697,7 @@ window.tekkIndex = [
     "title": "Евровагонка - Упаковкой по 10 шт. - Кедр - B - 12,5х96(88) - 3000 - Под заказ",
     "sku": "1212.0",
     "price": 2585.0,
-    "image": "nan",
+    "image": "https://static.tildacdn.com/stor3161-3539-4630-b330-653635306631/63022191.png",
     "url": "https://текк.рф/catalog/stolyarnye-izdeliya/tproduct/362062604762-evrovagonka?editionuid=137205015592",
     "category": "nan"
   },
@@ -9706,7 +9706,7 @@ window.tekkIndex = [
     "title": "Евровагонка - Упаковкой по 10 шт. - Хвоя - B - 12,5х96(88) - 3000 - Под заказ",
     "sku": "1213.0",
     "price": 2406.0,
-    "image": "nan",
+    "image": "https://static.tildacdn.com/stor3161-3539-4630-b330-653635306631/63022191.png",
     "url": "https://текк.рф/catalog/stolyarnye-izdeliya/tproduct/362062604762-evrovagonka?editionuid=333762589702",
     "category": "nan"
   },
@@ -9715,7 +9715,7 @@ window.tekkIndex = [
     "title": "Евровагонка - Упаковкой по 10 шт. - Хвоя - C - 12,5х96(88) - 2500 - Под заказ",
     "sku": "1214.0",
     "price": 1501.0,
-    "image": "nan",
+    "image": "https://static.tildacdn.com/stor3161-3539-4630-b330-653635306631/63022191.png",
     "url": "https://текк.рф/catalog/stolyarnye-izdeliya/tproduct/362062604762-evrovagonka?editionuid=502179537352",
     "category": "nan"
   },
@@ -9724,7 +9724,7 @@ window.tekkIndex = [
     "title": "Евровагонка - Упаковкой по 10 шт. - Хвоя - C - 12,5х96(88) - 3000 - В наличии",
     "sku": "1215.0",
     "price": 1802.0,
-    "image": "nan",
+    "image": "https://static.tildacdn.com/stor3161-3539-4630-b330-653635306631/63022191.png",
     "url": "https://текк.рф/catalog/stolyarnye-izdeliya/tproduct/362062604762-evrovagonka?editionuid=564327018172",
     "category": "nan"
   },
@@ -9733,7 +9733,7 @@ window.tekkIndex = [
     "title": "Доска террасная - Упаковкой по 3 шт. - Лиственница - B - 27х142 - 3000 - В наличии",
     "sku": "1216.0",
     "price": 2924.0,
-    "image": "nan",
+    "image": "https://static.tildacdn.com/stor6663-3832-4133-b836-396339303066/82911469.png",
     "url": "https://текк.рф/catalog/stolyarnye-izdeliya/tproduct/693353281732-doska-terrasnaya?editionuid=190915135352",
     "category": "nan"
   },
@@ -9742,7 +9742,7 @@ window.tekkIndex = [
     "title": "Доска террасная - Упаковкой по 3 шт. - Лиственница - C - 27х142 - 3000 - Под заказ",
     "sku": "1217.0",
     "price": 2306.0,
-    "image": "nan",
+    "image": "https://static.tildacdn.com/stor6663-3832-4133-b836-396339303066/82911469.png",
     "url": "https://текк.рф/catalog/stolyarnye-izdeliya/tproduct/693353281732-doska-terrasnaya?editionuid=716125894042",
     "category": "nan"
   },
@@ -9751,7 +9751,7 @@ window.tekkIndex = [
     "title": "Доска пола - Упаковкой по 3 шт. - Лиственница - С - 28х146(138) - 3000 - В наличии",
     "sku": "1218.0",
     "price": 2459.0,
-    "image": "nan",
+    "image": "https://static.tildacdn.com/stor6432-3333-4434-b265-633036626664/45011510.png",
     "url": "https://текк.рф/catalog/stolyarnye-izdeliya/tproduct/245188782952-doska-pola?editionuid=365870302122",
     "category": "nan"
   },
@@ -9760,7 +9760,7 @@ window.tekkIndex = [
     "title": "Доска пола - Упаковкой по 3 шт. - Хвоя - С - 28х146(138) - 3000 - Под заказ",
     "sku": "1219.0",
     "price": 2081.0,
-    "image": "nan",
+    "image": "https://static.tildacdn.com/stor6432-3333-4434-b265-633036626664/45011510.png",
     "url": "https://текк.рф/catalog/stolyarnye-izdeliya/tproduct/245188782952-doska-pola?editionuid=697546921102",
     "category": "nan"
   },
@@ -9769,7 +9769,7 @@ window.tekkIndex = [
     "title": "Доска палубная - Упаковкой по 3 шт. - Лиственница - C - 28х140 - 3000 - Под заказ",
     "sku": "1220.0",
     "price": 2357.0,
-    "image": "nan",
+    "image": "https://static.tildacdn.com/stor3861-3863-4631-b732-333838646361/71691603.png",
     "url": "https://текк.рф/catalog/stolyarnye-izdeliya/tproduct/799805007112-doska-palubnaya?editionuid=961937809932",
     "category": "nan"
   },
@@ -9778,7 +9778,7 @@ window.tekkIndex = [
     "title": "Брусок - Поштучно - Хвоя - 1 - 30х40 - 2000 - Под заказ",
     "sku": "1221.0",
     "price": 170.0,
-    "image": "nan",
+    "image": "https://static.tildacdn.com/stor3563-3866-4232-a333-633231363635/93016883.png",
     "url": "https://текк.рф/catalog/stolyarnye-izdeliya/tproduct/954068577602-brusok?editionuid=888655659242",
     "category": "nan"
   },
@@ -9787,7 +9787,7 @@ window.tekkIndex = [
     "title": "Брусок - Поштучно - Хвоя - 1 - 30х40 - 3000 - Под заказ",
     "sku": "1222.0",
     "price": 255.0,
-    "image": "nan",
+    "image": "https://static.tildacdn.com/stor3563-3866-4232-a333-633231363635/93016883.png",
     "url": "https://текк.рф/catalog/stolyarnye-izdeliya/tproduct/954068577602-brusok?editionuid=323779000922",
     "category": "nan"
   },
@@ -9796,7 +9796,7 @@ window.tekkIndex = [
     "title": "Брусок - Поштучно - Хвоя - 1 - 50х50 - 3000 - Под заказ",
     "sku": "1223.0",
     "price": 338.0,
-    "image": "nan",
+    "image": "https://static.tildacdn.com/stor3563-3866-4232-a333-633231363635/93016883.png",
     "url": "https://текк.рф/catalog/stolyarnye-izdeliya/tproduct/954068577602-brusok?editionuid=152768187852",
     "category": "nan"
   },
@@ -9805,7 +9805,7 @@ window.tekkIndex = [
     "title": "Брусок - Поштучно - Хвоя - 2 - 20х30 - 3000 - В наличии",
     "sku": "1224.0",
     "price": 85.0,
-    "image": "nan",
+    "image": "https://static.tildacdn.com/stor3563-3866-4232-a333-633231363635/93016883.png",
     "url": "https://текк.рф/catalog/stolyarnye-izdeliya/tproduct/954068577602-brusok?editionuid=801707561442",
     "category": "nan"
   },
@@ -9814,7 +9814,7 @@ window.tekkIndex = [
     "title": "Брусок - Поштучно - Хвоя - 2 - 20х45 - 3000 - В наличии",
     "sku": "1225.0",
     "price": 138.0,
-    "image": "nan",
+    "image": "https://static.tildacdn.com/stor3563-3866-4232-a333-633231363635/93016883.png",
     "url": "https://текк.рф/catalog/stolyarnye-izdeliya/tproduct/954068577602-brusok?editionuid=466844333562",
     "category": "nan"
   },
@@ -9823,7 +9823,7 @@ window.tekkIndex = [
     "title": "Брусок - Поштучно - Хвоя - 2 - 30х40 - 3000 - Под заказ",
     "sku": "1226.0",
     "price": 185.0,
-    "image": "nan",
+    "image": "https://static.tildacdn.com/stor3563-3866-4232-a333-633231363635/93016883.png",
     "url": "https://текк.рф/catalog/stolyarnye-izdeliya/tproduct/954068577602-brusok?editionuid=248772566502",
     "category": "nan"
   },
@@ -9832,7 +9832,7 @@ window.tekkIndex = [
     "title": "Брусок - Поштучно - Хвоя - 2 - 40х40 - 3000 - В наличии",
     "sku": "1227.0",
     "price": 236.0,
-    "image": "nan",
+    "image": "https://static.tildacdn.com/stor3563-3866-4232-a333-633231363635/93016883.png",
     "url": "https://текк.рф/catalog/stolyarnye-izdeliya/tproduct/954068577602-brusok?editionuid=496801831142",
     "category": "nan"
   },
@@ -9841,7 +9841,7 @@ window.tekkIndex = [
     "title": "Брусок - Поштучно - Хвоя - 2 - 40х50 - 3000 - В наличии",
     "sku": "1228.0",
     "price": 295.0,
-    "image": "nan",
+    "image": "https://static.tildacdn.com/stor3563-3866-4232-a333-633231363635/93016883.png",
     "url": "https://текк.рф/catalog/stolyarnye-izdeliya/tproduct/954068577602-brusok?editionuid=657304162372",
     "category": "nan"
   },
@@ -9850,7 +9850,7 @@ window.tekkIndex = [
     "title": "Брусок - Поштучно - Хвоя - 2 - 50х50 - 3000 - В наличии",
     "sku": "1229.0",
     "price": 369.0,
-    "image": "nan",
+    "image": "https://static.tildacdn.com/stor3563-3866-4232-a333-633231363635/93016883.png",
     "url": "https://текк.рф/catalog/stolyarnye-izdeliya/tproduct/954068577602-brusok?editionuid=352119420242",
     "category": "nan"
   },
@@ -9859,7 +9859,7 @@ window.tekkIndex = [
     "title": "Брусок - Поштучно - Хвоя - 2 - 50х70 - 3000 - В наличии",
     "sku": "1230.0",
     "price": 517.0,
-    "image": "nan",
+    "image": "https://static.tildacdn.com/stor3563-3866-4232-a333-633231363635/93016883.png",
     "url": "https://текк.рф/catalog/stolyarnye-izdeliya/tproduct/954068577602-brusok?editionuid=321469663272",
     "category": "nan"
   },
@@ -9868,7 +9868,7 @@ window.tekkIndex = [
     "title": "Доска Блокхаус - Упаковкой по 3 шт. - Хвоя - B - 28х146(138) - В наличии",
     "sku": "1231.0",
     "price": 2641.0,
-    "image": "nan",
+    "image": "https://static.tildacdn.com/stor3062-3265-4666-a534-663033336232/74331926.png",
     "url": "https://текк.рф/catalog/stolyarnye-izdeliya/tproduct/503210217362-doska-blokhaus?editionuid=996366529352",
     "category": "nan"
   },
@@ -10300,7 +10300,7 @@ window.tekkIndex = [
     "title": "Арматура стеклопластиковая композитная (бухта 50м) - 1300 МП - 64 Е - 2,2 г/см 3 - 6 мм - В наличии",
     "sku": "1300.0",
     "price": 520.0,
-    "image": "nan",
+    "image": "https://static.tildacdn.com/stor6562-6364-4539-b932-643962306162/33377698.png",
     "url": "https://текк.рф/catalog/metalloprokat/tproduct/932679039052-armatura-stekloplastikovaya-kompozitnaya?editionuid=593959712882",
     "category": "nan"
   },
@@ -10309,7 +10309,7 @@ window.tekkIndex = [
     "title": "Арматура стеклопластиковая композитная (бухта 50м) - 1300 МП - 64 Е - 2,2 г/см 3 - 8 мм - В наличии",
     "sku": "1301.0",
     "price": 748.0,
-    "image": "nan",
+    "image": "https://static.tildacdn.com/stor6562-6364-4539-b932-643962306162/33377698.png",
     "url": "https://текк.рф/catalog/metalloprokat/tproduct/932679039052-armatura-stekloplastikovaya-kompozitnaya?editionuid=125182229152",
     "category": "nan"
   },
@@ -10318,7 +10318,7 @@ window.tekkIndex = [
     "title": "Арматура стеклопластиковая композитная (бухта 50м) - 1300 МП - 64 Е - 2,2 г/см 3 - 10 мм - В наличии",
     "sku": "1302.0",
     "price": 1105.0,
-    "image": "nan",
+    "image": "https://static.tildacdn.com/stor6562-6364-4539-b932-643962306162/33377698.png",
     "url": "https://текк.рф/catalog/metalloprokat/tproduct/932679039052-armatura-stekloplastikovaya-kompozitnaya?editionuid=324524805502",
     "category": "nan"
   },
@@ -10327,7 +10327,7 @@ window.tekkIndex = [
     "title": "Арматура стеклопластиковая композитная (бухта 50м) - 1300 МП - 64 Е - 2,2 г/см 3 - 12 мм - В наличии",
     "sku": "1303.0",
     "price": 2482.0,
-    "image": "nan",
+    "image": "https://static.tildacdn.com/stor6562-6364-4539-b932-643962306162/33377698.png",
     "url": "https://текк.рф/catalog/metalloprokat/tproduct/932679039052-armatura-stekloplastikovaya-kompozitnaya?editionuid=237130400122",
     "category": "nan"
   },
