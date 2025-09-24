@@ -4127,7 +4127,7 @@ window.tekkIndex = [
     "sku": "1241.0",
     "price": 1044.0,
     "image": "https://static.tildacdn.com/stor6166-6365-4536-a266-613164666561/73854019.png",
-    "url": "/tproduct/397759105392",
+    "url": "/catalog/svai/tproduct/397759105392",
     "category": "Сваи винтовые;Ladya.pro"
   },
   {
@@ -4136,7 +4136,7 @@ window.tekkIndex = [
     "sku": "1242.0",
     "price": 1300.0,
     "image": "https://static.tildacdn.com/stor6166-6365-4536-a266-613164666561/73854019.png",
-    "url": "/tproduct/555287931402",
+    "url": "/catalog/svai/tproduct/555287931402",
     "category": "Сваи винтовые;Ladya.pro"
   },
   {
@@ -4145,7 +4145,7 @@ window.tekkIndex = [
     "sku": "1243.0",
     "price": 1555.0,
     "image": "https://static.tildacdn.com/stor6166-6365-4536-a266-613164666561/73854019.png",
-    "url": "/tproduct/741464330662",
+    "url": "/catalog/svai/tproduct/741464330662",
     "category": "Сваи винтовые;Ladya.pro"
   },
   {
@@ -4154,7 +4154,7 @@ window.tekkIndex = [
     "sku": "1244.0",
     "price": 1822.0,
     "image": "https://static.tildacdn.com/stor6166-6365-4536-a266-613164666561/73854019.png",
-    "url": "/tproduct/886979488312",
+    "url": "/catalog/svai/tproduct/886979488312",
     "category": "Сваи винтовые;Ladya.pro"
   },
   {
@@ -4163,7 +4163,7 @@ window.tekkIndex = [
     "sku": "1245.0",
     "price": 2077.0,
     "image": "https://static.tildacdn.com/stor6166-6365-4536-a266-613164666561/73854019.png",
-    "url": "/tproduct/330435405762",
+    "url": "/catalog/svai/tproduct/330435405762",
     "category": "Сваи винтовые;Ladya.pro"
   },
   {
@@ -4172,7 +4172,7 @@ window.tekkIndex = [
     "sku": "1246.0",
     "price": 2332.0,
     "image": "https://static.tildacdn.com/stor6166-6365-4536-a266-613164666561/73854019.png",
-    "url": "/tproduct/813562606622",
+    "url": "/catalog/svai/tproduct/813562606622",
     "category": "Сваи винтовые;Ladya.pro"
   },
   {
@@ -4181,7 +4181,7 @@ window.tekkIndex = [
     "sku": "1247.0",
     "price": 1369.0,
     "image": "https://static.tildacdn.com/stor3533-3731-4531-a165-636366373136/66001038.png",
-    "url": "/tproduct/555348039942",
+    "url": "/catalog/svai/tproduct/555348039942",
     "category": "Сваи винтовые;Ladya.pro"
   },
   {
@@ -4190,7 +4190,7 @@ window.tekkIndex = [
     "sku": "1248.0",
     "price": 1729.0,
     "image": "https://static.tildacdn.com/stor3533-3731-4531-a165-636366373136/66001038.png",
-    "url": "/tproduct/893535447332",
+    "url": "/catalog/svai/tproduct/893535447332",
     "category": "Сваи винтовые;Ladya.pro"
   },
   {
@@ -4199,7 +4199,7 @@ window.tekkIndex = [
     "sku": "1249.0",
     "price": 2065.0,
     "image": "https://static.tildacdn.com/stor3533-3731-4531-a165-636366373136/66001038.png",
-    "url": "/tproduct/947406968582",
+    "url": "/catalog/svai/tproduct/947406968582",
     "category": "Сваи винтовые;Ladya.pro"
   },
   {
@@ -4208,7 +4208,7 @@ window.tekkIndex = [
     "sku": "1250.0",
     "price": 2390.0,
     "image": "https://static.tildacdn.com/stor3533-3731-4531-a165-636366373136/66001038.png",
-    "url": "/tproduct/427651908582",
+    "url": "/catalog/svai/tproduct/427651908582",
     "category": "Сваи винтовые;Ladya.pro"
   },
   {
@@ -4217,7 +4217,7 @@ window.tekkIndex = [
     "sku": "1251.0",
     "price": 2738.0,
     "image": "https://static.tildacdn.com/stor3533-3731-4531-a165-636366373136/66001038.png",
-    "url": "/tproduct/540644882012",
+    "url": "/catalog/svai/tproduct/540644882012",
     "category": "Сваи винтовые;Ladya.pro"
   },
   {
@@ -4226,7 +4226,7 @@ window.tekkIndex = [
     "sku": "1252.0",
     "price": 3074.0,
     "image": "https://static.tildacdn.com/stor3533-3731-4531-a165-636366373136/66001038.png",
-    "url": "/tproduct/328651051682",
+    "url": "/catalog/svai/tproduct/328651051682",
     "category": "Сваи винтовые;Ladya.pro"
   },
   {
@@ -4235,7 +4235,7 @@ window.tekkIndex = [
     "sku": "1253.0",
     "price": 2135.0,
     "image": "https://static.tildacdn.com/stor6532-3830-4433-a432-346639376663/12474508.png",
-    "url": "/tproduct/516854498822",
+    "url": "/catalog/svai/tproduct/516854498822",
     "category": "Сваи винтовые;Ladya.pro"
   },
   {
@@ -4244,7 +4244,7 @@ window.tekkIndex = [
     "sku": "1254.0",
     "price": 2541.0,
     "image": "https://static.tildacdn.com/stor6532-3830-4433-a432-346639376663/12474508.png",
-    "url": "/tproduct/896068660112",
+    "url": "/catalog/svai/tproduct/896068660112",
     "category": "Сваи винтовые;Ladya.pro"
   },
   {
@@ -4253,7 +4253,7 @@ window.tekkIndex = [
     "sku": "1255.0",
     "price": 2924.0,
     "image": "https://static.tildacdn.com/stor6532-3830-4433-a432-346639376663/12474508.png",
-    "url": "/tproduct/259059694322",
+    "url": "/catalog/svai/tproduct/259059694322",
     "category": "Сваи винтовые;Ladya.pro"
   },
   {
@@ -4262,7 +4262,7 @@ window.tekkIndex = [
     "sku": "1256.0",
     "price": 3318.0,
     "image": "https://static.tildacdn.com/stor6532-3830-4433-a432-346639376663/12474508.png",
-    "url": "/tproduct/288939672002",
+    "url": "/catalog/svai/tproduct/288939672002",
     "category": "Сваи винтовые;Ladya.pro"
   },
   {
@@ -4271,7 +4271,7 @@ window.tekkIndex = [
     "sku": "1257.0",
     "price": 3712.0,
     "image": "https://static.tildacdn.com/stor6532-3830-4433-a432-346639376663/12474508.png",
-    "url": "/tproduct/787134777762",
+    "url": "/catalog/svai/tproduct/787134777762",
     "category": "Сваи винтовые;Ladya.pro"
   },
   {
@@ -4280,7 +4280,7 @@ window.tekkIndex = [
     "sku": "1258.0",
     "price": 3225.0,
     "image": "https://static.tildacdn.com/stor6235-6138-4936-b833-613439396639/44730025.png",
-    "url": "/tproduct/613730252752",
+    "url": "/catalog/svai/tproduct/613730252752",
     "category": "Сваи винтовые;Ladya.pro"
   },
   {
@@ -4289,7 +4289,7 @@ window.tekkIndex = [
     "sku": "1259.0",
     "price": 3770.0,
     "image": "https://static.tildacdn.com/stor6235-6138-4936-b833-613439396639/44730025.png",
-    "url": "/tproduct/330912594282",
+    "url": "/catalog/svai/tproduct/330912594282",
     "category": "Сваи винтовые;Ladya.pro"
   },
   {
@@ -4298,7 +4298,7 @@ window.tekkIndex = [
     "sku": "1260.0",
     "price": 4316.0,
     "image": "https://static.tildacdn.com/stor6235-6138-4936-b833-613439396639/44730025.png",
-    "url": "/tproduct/312577567732",
+    "url": "/catalog/svai/tproduct/312577567732",
     "category": "Сваи винтовые;Ladya.pro"
   },
   {
@@ -4307,7 +4307,7 @@ window.tekkIndex = [
     "sku": "1261.0",
     "price": 4861.0,
     "image": "https://static.tildacdn.com/stor6235-6138-4936-b833-613439396639/44730025.png",
-    "url": "/tproduct/877247528062",
+    "url": "/catalog/svai/tproduct/877247528062",
     "category": "Сваи винтовые;Ladya.pro"
   },
   {
